@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{622e6bc8-abfd-4c1e-a0a2-90dda0286a0e}</ProjectGuid>
-    <RootNamespace>HW1Hangman</RootNamespace>
+    <ProjectGuid>{6e0750e6-7d44-4adf-934a-71011795705c}</ProjectGuid>
+    <RootNamespace>HW4TemplatedStack</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HW1-Hangman.cpp" />
+    <ClCompile Include="HW4_TemplatedStack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

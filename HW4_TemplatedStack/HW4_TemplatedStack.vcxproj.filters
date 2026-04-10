@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HW1-Hangman.cpp">
+    <ClCompile Include="HW4_TemplatedStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
